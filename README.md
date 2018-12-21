@@ -19,7 +19,7 @@ like this.
 |No.|Location|Link|
 |---|--------|---------|
 |1.|Camposha|[View Full Tutorial](https://camposha.info/flutter/http/mysql/listview)|
-|2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=DyVkd9Qwy-Y) |
+|2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=Ukc2habPUbc) |
 |3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](https://www.youtube.com/c/programmingwizards) |
 |4.|Camposha|[View All Flutter Tutorials](https://camposha.info/flutter)|
 
